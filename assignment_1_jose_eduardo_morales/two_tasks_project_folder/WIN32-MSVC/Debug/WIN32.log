@@ -1,0 +1,7 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+cl : línea de comandos  warning D9002: se omite la opción desconocida '/wc4574'
+  main.c
+D:\Estudio\FreeRTOSv10\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(174,14): warning C4113: 'void (__cdecl *)()' es distinto en las listas de parámetros de 'TaskFunction_t'
+D:\Estudio\FreeRTOSv10\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(175,14): warning C4113: 'void (__cdecl *)()' es distinto en las listas de parámetros de 'TaskFunction_t'
+D:\Estudio\FreeRTOSv10\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(179): warning C4702: no se puede tener acceso al código
+  WIN32.vcxproj -> D:\Estudio\FreeRTOSv10\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
